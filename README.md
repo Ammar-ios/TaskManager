@@ -35,3 +35,5 @@ TaskManager is a task management application built with SwiftUI, designed to hel
 
 
 ## LOOM Video - Details about app. 
+
+https://www.loom.com/share/d130fb6196534ed69fe50e00fc90bb16?sid=893ee575-257a-434a-baad-8a102b80eb89
