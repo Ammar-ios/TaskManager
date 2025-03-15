@@ -9,9 +9,6 @@ TaskManager is a task management application built with SwiftUI, designed to hel
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Removing Snapshot Testing](#removing-snapshot-testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
